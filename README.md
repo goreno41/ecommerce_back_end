@@ -22,5 +22,11 @@ macOS and Windows:
 
 # Video Demonstrations
 
+![](./assets/walkthrough1.gif)
+
+![](./assets/walkthrough2.gif)
+
+![](./assets/walkthrough3.gif)
+
 # GitHub Link
 https://github.com/goreno41/ecommerce_back_end.git
